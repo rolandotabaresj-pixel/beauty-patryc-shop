@@ -83,7 +83,7 @@ export const productos = [
     },
      { 
         id: 10, 
-        nombre: "Shampoo de Batana", 
+        nombre: "Shampoo de Batana 500 ml", 
         precio: 28000, 
         img: "assets/shampoo-batana.png", 
         ingredientes: "", 
@@ -92,7 +92,7 @@ export const productos = [
     },
      { 
         id: 11, 
-        nombre: "Acondicionador de Batana", 
+        nombre: "Acondicionador de Batana 300 ml", 
         precio: 15000, 
         img: "assets/acondicionador-batana.png", 
         ingredientes: "", 
@@ -101,7 +101,7 @@ export const productos = [
     },
     { 
         id: 12, 
-        nombre: "Tratamiento Capilar de Batana", 
+        nombre: "Tratamiento Capilar de Batana 300 ml", 
         precio: 15000, 
         img: "assets/tratamiento capilar-batana.png", 
         ingredientes: "", 
