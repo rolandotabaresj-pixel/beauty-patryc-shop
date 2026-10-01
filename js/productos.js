@@ -112,7 +112,7 @@ export const productos = [
         id: 13, 
         nombre: "Aceite de Batana 60 ml", 
         precio: 15000, 
-        img: "assets/tratamiento capilar-batana.png", 
+        img: "assets/aceite-batana.jpeg", 
         ingredientes: "Extracto 100% de batana, clavos, canela", 
         aplicacion: "Se aplica un antes de bañarse el cabello en el cuero cabelludo para hidratarlo y en la mañana una o dos horas antes de bañarselo se aplica de medios a puntas con el cabello humedo.", 
         duracion: "Aproximadamente 1 año"
