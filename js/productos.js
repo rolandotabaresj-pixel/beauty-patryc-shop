@@ -114,7 +114,7 @@ export const productos = [
         precio: 15000, 
         img: "assets/aceite-batana.jpeg", 
         ingredientes: "Extracto 100% de batana, clavos, canela", 
-        aplicacion: "Se aplica un antes de bañarse el cabello en el cuero cabelludo para hidratarlo y en la mañana una o dos horas antes de bañarselo se aplica de medios a puntas con el cabello humedo.", 
+        aplicacion: "Se aplica antes de bañarse el cabello en el cuero cabelludo para hidratarlo y en la mañana una o dos horas antes de bañarselo se aplica de medios a puntas con el cabello humedo.", 
         duracion: "Aproximadamente 1 año"
     },
 
