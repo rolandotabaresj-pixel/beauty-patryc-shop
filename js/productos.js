@@ -81,8 +81,35 @@ export const productos = [
         aplicacion: "Aplicar sobre cabello humedo después del shampoo o después del acondicionador, o usar como pre-shampoo. Se puede dejar aplicado entre 20 minutos y 1 hora.", 
         duracion: "Aproximadamente 6 meses" 
     },
-    { 
+     { 
         id: 10, 
+        nombre: "Shampoo de Batana", 
+        precio: 28000, 
+        img: "assets/shampoo-batana.png", 
+        ingredientes: "", 
+        aplicacion: "", 
+        duracion: "Aproximadamente 6 meses" 
+    },
+     { 
+        id: 11, 
+        nombre: "Acondicionador de Batana", 
+        precio: 15000, 
+        img: "assets/acondicionador-batana.png", 
+        ingredientes: "", 
+        aplicacion: "", 
+        duracion: "Aproximadamente 6 meses" 
+    },
+    { 
+        id: 12, 
+        nombre: "Tratamiento Capilar de Batana", 
+        precio: 15000, 
+        img: "assets/tratamiento capilar-batana.png", 
+        ingredientes: "", 
+        aplicacion: "", 
+        duracion: "Aproximadamente 6 meses"
+    },    
+    { 
+        id: 13, 
         nombre: "Perfume Capilar para hombre 125 ml", 
         precio: 18000, 
         img: "assets/Perfume_Capilar.png", 
@@ -91,12 +118,12 @@ export const productos = [
         duracion: "Aproximadamente 12 meses" 
     },
     { 
-        id: 11, 
+        id: 14, 
         nombre: "Perfume Capilar para Mujer 125 ml", 
         precio: 18000, 
         img: "assets/Perfume_Capilar.png", 
         ingredientes: "Hecho a base de agua destilada, perfume capilar, glicerina vegetal, propilen, vitamina E.", 
         aplicacion: "Atomizar a 20cm del cabello.", 
         duracion: "Aproximadamente 12 meses" 
-    }
+    }    
 ];
