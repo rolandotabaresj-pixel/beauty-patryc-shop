@@ -86,8 +86,8 @@ export const productos = [
         nombre: "Shampoo de Batana 500 ml", 
         precio: 28000, 
         img: "assets/shampoo-batana.png", 
-        ingredientes: "", 
-        aplicacion: "", 
+        ingredientes: "Extracto de Batana, aceites y vitaminas.", 
+        aplicacion: "Aplicar el shampoo sobre el cabello húmedo, masajear el cuero cabelludo entre 5 y 15 minutos y enjuagar.", 
         duracion: "Aproximadamente 6 meses" 
     },
      { 
@@ -95,8 +95,8 @@ export const productos = [
         nombre: "Acondicionador de Batana 300 ml", 
         precio: 15000, 
         img: "assets/acondicionador-batana.png", 
-        ingredientes: "", 
-        aplicacion: "", 
+        ingredientes: "Extracto 100% de batana, clavos, canela, jengiblre, guasimo, ortiga, entre otros, propilen, gliserina vegetal, miel, linaza y vitaminas.", 
+        aplicacion: "Aplicar después del shampoo, masajear y dejarlo entre 5 y 20 minutos.", 
         duracion: "Aproximadamente 6 meses" 
     },
     { 
@@ -104,12 +104,23 @@ export const productos = [
         nombre: "Tratamiento Capilar de Batana 300 ml", 
         precio: 15000, 
         img: "assets/tratamiento capilar-batana.png", 
-        ingredientes: "", 
-        aplicacion: "", 
+        ingredientes: "Extracto 100% de batana, clavos, canela, jengibre, guasimo, ortiga, entre otros, propilen, gliserina vegetal, miel, linaza y vitamina E, aceite de argan", 
+        aplicacion: "Se aplica después de bañarse el cabello, con el cabello humedo como crema de peinar o como pre-shampoo.", 
         duracion: "Aproximadamente 6 meses"
-    },    
+    },
     { 
         id: 13, 
+        nombre: "Aceite de Batana 60 ml", 
+        precio: 15000, 
+        img: "assets/tratamiento capilar-batana.png", 
+        ingredientes: "Extracto 100% de batana, clavos, canela", 
+        aplicacion: "Se aplica un antes de bañarse el cabello en el cuero cabelludo para hidratarlo y en la mañana una o dos horas antes de bañarselo se aplica de medios a puntas con el cabello humedo.", 
+        duracion: "Aproximadamente 1 año"
+    },
+
+    
+    { 
+        id: 14, 
         nombre: "Perfume Capilar para hombre 125 ml", 
         precio: 18000, 
         img: "assets/Perfume_Capilar.png", 
@@ -118,7 +129,7 @@ export const productos = [
         duracion: "Aproximadamente 12 meses" 
     },
     { 
-        id: 14, 
+        id: 15, 
         nombre: "Perfume Capilar para Mujer 125 ml", 
         precio: 18000, 
         img: "assets/Perfume_Capilar.png", 
